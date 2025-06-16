@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Cristian Daniel Velazquez</h1>
+<p align="center">🚀 Desarrollador Full Stack | 🎓 Estudiante de la UNSa carreras Licenciatura en Analisis de Sistemas y Tecnico Universitario en Programación</p>
 
-<!--
-**danicris97/danicris97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Me enfoco en construir aplicaciones web modernas y eficientes
+- 🧠 Interesado en ciencia de datos, análisis estadístico y visualización
+- 💬 Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas
+
+---
+
+### 🛠️ Stack Principal
+
+- **Frontend**: React, TypeScript, TailwindCSS, ShadCN/UI, Vite
+- **Backend**: Django, Django REST Framework, Python
+- **Base de Datos**: PostgreSQL
+- **Herramientas**: Git, GitHub, VS Code, Docker
+
+---
+
+### 🛠️ Stack Secundario
+
+- **Frontend**: React, JavaScript, TailwindCSS, ShadCN/UI, Vite
+- **Backend**: Laravel, PHP
+- **Base de Datos**: MySQL
+
+### 🌐 Otros stacks y herramientas
+
+- React Query, Zustand, Zod
+- Axios, React Hook Form
+- MongoDB, C, Java
+- JavaScript, HTML, CSS
+- PHP, Wordpress, Genexus
+- HTMX, Blade, Inertia.js
+- Pandas, Jupyter, Scikit-learn (para ciencia de datos)
+- Tensorflow, Microsoft SQL Server, .Net (Proximamente)
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicris97&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicris97&layout=compact&langs_count=8&theme=default" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+- [🩺 Sistema de Gestión de Atenciones Médicas e Historias Clinicas]
+- [📊 Sistema de Estadísticas de Emergencias Sanitarias]
+- [⚽ Sistema de Gestión para Reserva de Canchas y Torenos de Futbol]
+- [🎓 Sitema de Gestión de Convenios Institucionales, Pasantias y Becas]
+- [🎓 Pagina institucional para una secretaría de la universidad]
+
+---
+
+## 📫 Contacto
+📧 [danicristian2014@gmail.com]  
+🔗 [[LinkedIn](https://www.linkedin.com/in/cristian-daniel-velazquez-8179b6201/)]  
+📍 [Salta, Argentina]
