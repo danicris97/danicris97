@@ -13,6 +13,8 @@
 
 ### 🛠️ Stack Principal
 
+JavaScript • React • Node.js • PHP • Laravel • MySQL • Tailwind CSS
+
 - **Frontend**: React, TypeScript, TailwindCSS, ShadCN/UI, Vite
 - **Backend**: Django, Django REST Framework, Python
 - **Base de Datos**: PostgreSQL
