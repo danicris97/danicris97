@@ -52,7 +52,6 @@
 
 - [🩺 Sistema de Gestión de Atenciones Médicas e Historias Clinicas]
 - [📊 Sistema de Estadísticas de Emergencias Sanitarias]
-- [⚽ Sistema de Gestión para Reserva de Canchas y Torenos de Futbol]
 - [🎓 Sitema de Gestión de Convenios Institucionales, Pasantias y Becas]
 - [🎓 Pagina institucional para una secretaría de la universidad]
 
